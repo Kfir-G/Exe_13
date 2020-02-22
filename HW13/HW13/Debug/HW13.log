@@ -1,0 +1,4 @@
+﻿  q4.c
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\שפת C\מטלות בית\מטלה 13 עד 9.2\HW13\HW13\q4.c(11,30): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\kfirg\OneDrive - Ruppin Academic Center\שפת C\מטלות בית\מטלה 13 עד 9.2\HW13\HW13\q4.c(28,39): warning C4098: 'my_strcpy': 'void' function returning a value
+  HW13.vcxproj -> C:\Users\kfirg\OneDrive - Ruppin Academic Center\שפת C\מטלות בית\מטלה 13 עד 9.2\HW13\Debug\HW13.exe
